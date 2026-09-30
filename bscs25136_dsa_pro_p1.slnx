@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bscs25136_dsa_pro_p1/bscs25136_dsa_pro_p1.vcxproj" />
+</Solution>
